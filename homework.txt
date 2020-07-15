@@ -1,0 +1,38 @@
+------ What is the purpose of a breakpoint?
+
+The purpose of a breakpoint is to understand the programme and the data at the instance of stopping.
+It is used for debugging.
+
+
+
+
+
+------ Does the line of code on a breakpoint run when you start debugging?
+
+The programme will run normally until it hits the breakpoint.
+The line of code runs when the programme gets to that section of the code.
+
+
+
+
+
+------ How do we debug the next line of code?
+
+We can do this by clicking the step-over button.
+
+
+
+
+
+------ What does the step into command do?
+
+Step in to digs in to the method or function which is shown at the current break point and redirects to there.
+
+
+
+
+
+------What is the difference between evaluate expression and evaluate code fragment?
+
+Evalute expression allows you to run some java code on the objects created to see what value would be returned.
+Meanwhile, evaluate code fragment allows this to be done for multiple lines of code and allows for variables to created etc.
